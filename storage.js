@@ -1,0 +1,1 @@
+export const STORAGE={tasks:"tm_tasks_v1",todos:"tm_todos_v1",history:"tm_history_v1"};
